@@ -25,9 +25,10 @@ Agent Protocol Bridge solves the fragmentation problem in the AI ecosystem by pr
 - Cycle detection and management
 
 ### 📋 **Agent Directory Service**
-- Automatic agent registration and discovery
-- Capability introspection
-- Centralized agent management
+- **Automatic agent registration and discovery**: Self-registering agents with centralized directory
+- **Dynamic capability introspection**: Real-time discovery of agent skills and functions
+- **Centralized agent management**: Unified registry for all agent types (MCP, A2A, LangChain)
+- **Runtime agent discovery**: Live detection of available agents and their capabilities
 
 ### 🔧 **Production Ready**
 - Multi-threaded server management
