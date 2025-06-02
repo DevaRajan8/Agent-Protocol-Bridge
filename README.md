@@ -35,7 +35,7 @@ Agent Protocol Bridge solves the fragmentation problem in the AI ecosystem by pr
 - Comprehensive logging
 - Interactive CLI interface
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -58,7 +58,7 @@ Agent Protocol Bridge solves the fragmentation problem in the AI ecosystem by pr
                                                └─────────────────┘
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -72,7 +72,6 @@ export GROQ_API_KEY="your_groq_api_key_here"
 ```bash
 git clone https://github.com/DevaRajan8/agent-protocol-bridge
 cd agent-protocol-bridge
-pip install -r requirements.txt
 ```
 
 ### Run the Interactive CLI
@@ -105,8 +104,8 @@ python app2.py
 
 ## 🔧 Available Conversions
 
-| From | To | Status |
-|------|----|---------| 
+| From | To |
+|------|----|
 | MCP Tools | LangChain Tools |
 | LangChain Tools | MCP Server |
 | A2A Agents | LangChain Tools |
