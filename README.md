@@ -1,7 +1,6 @@
 # Agent Protocol Bridge - *Bridging the gap between AI agent frameworks* 
 **Universal integration framework that seamlessly converts and bridges MCP tools, A2A agents, LangChain components, and LangGraph workflows into unified, interoperable AI systems.**
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 What is Agent Protocol Bridge?
